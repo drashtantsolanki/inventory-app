@@ -1,0 +1,10 @@
+@import 'variables';
+.header {
+    width: 100%;
+    background-color: $color-orange;
+    height: 45px;
+    padding: 0 8px;
+    .title{
+        color: $color-white;
+    }
+}
